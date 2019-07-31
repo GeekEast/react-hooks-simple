@@ -1,3 +1,4 @@
-import axios from 'axios';
+import posts from './posts';
+import todos from './todos';
 
-export const request = axios.create('https://jsonplaceholder.typicode.com/');
+export { posts, todos };
