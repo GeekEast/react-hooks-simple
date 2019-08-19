@@ -89,4 +89,3 @@ useEffect(
 
 ### Code Reuse
 - input and output -> can be reused as a function -> online lambda function
-- 
